@@ -6,7 +6,11 @@ Using Cloudflare Workers, deploy an application that will randomly send users to
 
 ## Instructions
 
-### [Read the instructions here](https://github.com/cloudflare-internship-2020/internship-application-fullstack)
+[Read the instructions here](https://github.com/cloudflare-internship-2020/internship-application-fullstack)
+
+## Link to the project
+
+https://cloudflare-app.jkevadia.workers.dev/
 
 ## Note to the recruiter
 
