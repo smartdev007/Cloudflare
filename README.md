@@ -7,3 +7,10 @@ Using Cloudflare Workers, deploy an application that will randomly send users to
 ## Instructions
 
 ### [Read the instructions here](https://github.com/cloudflare-internship-2020/internship-application-fullstack)
+
+## Note to the recruiter
+
+The challenge was amazing and got to learn something new. Thank you for this!
+
+
+*I have removed 'account_id' in 'wrangler.toml' for the security reasons*
