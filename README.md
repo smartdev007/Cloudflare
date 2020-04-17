@@ -1,4 +1,4 @@
-# Cloudflare Workers Internship Application: Full-Stack
+# Cloudflare Workers Application
 
 ## What is it?
 
